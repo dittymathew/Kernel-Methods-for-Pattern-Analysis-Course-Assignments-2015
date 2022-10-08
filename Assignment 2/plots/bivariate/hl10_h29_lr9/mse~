@@ -1,0 +1,23 @@
+train MSE = 81.134930
+
+fn =
+
+plots/bivariate/modeltarget_hl10_hl29_lr9
+
+
+fn =
+
+plots/bivariate/scatterplot_train_hl10_hl29_lr9
+
+val MSE = 78.602853
+
+fn =
+
+plots/bivariate/modeltarget_val_hl10_hl29_lr9
+
+
+fn =
+
+plots/bivariate/scatterplot_valn_hl10_hl29_lr9
+
+test MSE = 75.465197

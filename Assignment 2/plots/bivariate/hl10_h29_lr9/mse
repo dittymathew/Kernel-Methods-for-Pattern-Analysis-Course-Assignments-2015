@@ -1,0 +1,3 @@
+train MSE = 81.134930
+val MSE = 78.602853
+test MSE = 75.465197
